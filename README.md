@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer | AI-Augmented Full-Stack Development
 
-**Laravel • Next.js • Flutter | SaaS & FinTech | 10+ Years**
+**Laravel • Next.js • Flutter | SaaS & FinTech | 12+ Years**
 
 I’m Ebenezer Narh-Ngwah, a software engineer based in Ghana. I’ve spent my entire professional career working remotely, building web and mobile applications from initial design through deployment and ongoing maintenance.
 
